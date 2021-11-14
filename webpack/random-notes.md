@@ -1,6 +1,7 @@
 # Random Notes
 
 ## React Directory Tree
+This is what is generated when you run the starter `npx create-react-app my-app`.. 
 ```
 .
 ├── README.md
