@@ -1,6 +1,7 @@
 # Random Notes
 
 - Serving a directory: `npx serve {directory-name}`
+- Same purpose: `npx http-server {directory-name}`
 
 ## React Directory Tree
 This is what is generated when you run the starter `npx create-react-app my-app`.. 
